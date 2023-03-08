@@ -4,7 +4,7 @@
 
 # Portafolio Periodo I 📟
 
-<img width="100%" src="https://www.cinconoticias.com/wp-content/uploads/tipos-de-computadoras.jpg" alt="">
+<img width="100%" src="https://assets.spartangeek.com/cc/computadora-para-dise%C3%B1o-grafico-asus-vivo.jpg" alt="">
 
 # Información
 
